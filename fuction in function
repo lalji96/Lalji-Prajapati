@@ -1,0 +1,8 @@
+def sece(str):
+  def same():
+    return 'Hiii \n'
+  return same()+str
+def sat(run_name):
+    return run_name
+print sece(sat('Lalji Prjapati'))
+    
